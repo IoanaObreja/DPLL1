@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1639825523 source:c:\users\lenovo\desktop\an 3\bachelor_thesis\dpll\main.cpp
+	<fstream>
+	<cstdlib>
+	<list>
+	<map>
+	<chrono>
+
